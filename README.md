@@ -6,7 +6,7 @@ php artisan serve
 
 
 ## Migraciones, Seeders y Factories
-Para crear usuarios y demas registros de prueba de prueba
+Para crear usuarios y demas registros de prueba
 
 php artisan migrate:fresh --seed
 
