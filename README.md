@@ -23,6 +23,8 @@ npm run dev
 ## Usuarios de Prueba
 
 Admin / admin@mail.com / password
+
 Manager / manager@mail.com / password
+
 User / user@mail.com / password
 
